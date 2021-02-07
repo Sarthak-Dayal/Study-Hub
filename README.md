@@ -20,9 +20,9 @@ The app implements many simple features that are intuitive and easy to use so st
 ## Technology and tools
 
 To build this app, the following major tools and technologies (among others) were used:
-- [Dart] (https://dart.dev/)
-- [Flutter] (https://flutter.dev/)
-- [Firebase] (https://firebase.google.com/)
+- [Dart](https://dart.dev/)
+- [Flutter](https://flutter.dev/)
+- [Firebase](https://firebase.google.com/)
   - Cloud Firestore
   - Firebase Auth
   - Firebase Storage
