@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "887888267805",
+    "firebase_url": "https://study-hub-3a738.firebaseio.com",
+    "project_id": "study-hub-3a738",
+    "storage_bucket": "study-hub-3a738.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887888267805:android:056d9420b07aa7780e94f4",
+        "android_client_info": {
+          "package_name": "sarthakdayal.study_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887888267805-oe1al4eigpm5ochmqoub8qc7gupj90sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfs9n5S8e6taMIe0PBos76yoIPhWDci_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887888267805-oe1al4eigpm5ochmqoub8qc7gupj90sl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
