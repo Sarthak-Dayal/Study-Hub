@@ -4,7 +4,7 @@ An Android Application for managing and organizing school life including classes
 
 ## Motivation
 
-During the ongoing COVID-19 pandemic, students like myself were having trouble managing their online school life due to the new ways of teaching and learning. To help these people, I built Study Hub. Study Hub is an app that I think will be able to help a lot of people if it is expanded to other platforms like iOS, Web, and Desktop. This is why I built the app using Flutter, a new app development framework made by folks over at Google that allows users to buil cross-platform native applications.
+During the ongoing COVID-19 pandemic, students like myself were having trouble managing their online school life due to the new world they found themselves in. To help these people, I built Study Hub. Study Hub is an app that helps students organize their school life into classes, assessments, tasks, and materials. In this way, students can easily organize their schol life into smaller, more manageable chunks.
 
 ## Features
 
@@ -26,4 +26,4 @@ To build this app, the following major tools and technologies (among others) wer
   - Cloud Firestore
   - Firebase Auth
   - Firebase Storage
-- Many Flutter Plugins
+- Many other Flutter Plugins.
